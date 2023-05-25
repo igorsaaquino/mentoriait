@@ -16,8 +16,8 @@
 
 - [x] Brainstorm
 - [x] Definição da equipe
-- [] Coletar os requerimentos para execução
-- [] Start do projeto
+- [ ] Coletar os requerimentos para execução
+- [ ] Start do projeto
 
 
 ## Licença
