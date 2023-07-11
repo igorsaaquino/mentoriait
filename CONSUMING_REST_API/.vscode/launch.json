@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ConsumingRestApplication$ClientService",
+            "request": "launch",
+            "mainClass": "com.example.consumingrest.ConsumingRestApplication$ClientService",
+            "projectName": "consuming-rest-complete"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ConsumingRestApplication<consuming-rest-complete>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.consumingrest.ConsumingRestApplication",
+            "projectName": "consuming-rest-complete",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
