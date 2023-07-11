@@ -39,5 +39,5 @@ Sistema/Plataforma educacional e completamente autônomo que deve preencher os s
 Distribuído sob a licença GNU. Consulte [LICENÇA](./LICENSE) para obter mais informações.
 
 ## Desenvolvedores
-
+- [Felipe Gil](https://github.com/nanfsg)
 - [IgorAlencarDev](https://github.com/igorsaaquino)
